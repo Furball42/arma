@@ -1,0 +1,3 @@
+
+INDEPENDENT setFriend [WEST, 0];
+//DO ACTION
